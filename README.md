@@ -66,7 +66,7 @@ The system was trained on a custom thermal image dataset with the following char
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/hAlcLeite/thermal-detection.git
+git clone [https://github.com/hAlcLeite/thermal-detection.git](https://github.com/hAlcLeite/Thermal-road-user-detection.git)
 cd thermal-detection
 ```
 
