@@ -1,7 +1,7 @@
 # 🚗 Thermal Road User Detection System
 
 ## Overview
-This project was developed as part of the Design and Innovation Challenge hosted by the Western University Engineering Faculty and sponsored by General Motors. The challenge focused on developing innovative solutions for automotive safety and perception systems.
+This project was developed as part of the Automotive Innovation Challenge hosted by the Western University Engineering Faculty and sponsored by General Motors. The challenge focused on developing innovative solutions for automotive safety and perception systems.
 
 Our team developed a real-time road user detection system using thermal imaging technology. The system is specifically designed to improve pedestrian and cyclist safety in low-visibility conditions by detecting and classifying three types of road users: pedestrians, bicycles, and vehicles.
 
